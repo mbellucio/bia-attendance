@@ -7,6 +7,7 @@ class PlaytimeCalculator:
         self.lost_attendance = []
         self.structured_data = structured_data
         self.file_name = filename
+        self.minimum_playtime = 60
 
     def final_attendance(self):
         for name, status in self.structured_data.items():
@@ -20,7 +21,7 @@ class PlaytimeCalculator:
             splitted_time = time_spent_on_server.split(":")
             playtime_in_minutes = (int(splitted_time[0]) * 60) + (int(splitted_time[1])) + (int(splitted_time[2]) / 60)
 
-            if playtime_in_minutes > 60:
+            if playtime_in_minutes > self.minimum_playtime:
                 self.attended_list.append(name)
             else:
                 self.lost_attendance.append(name)
