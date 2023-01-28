@@ -7,7 +7,7 @@ class PlaytimeCalculator:
         self.lost_attendance = []
         self.structured_data = structured_data
         self.file_name = filename
-        self.minimum_playtime = 60
+        self.minimum_playtime = 90
 
     def final_attendance(self):
         for name, status in self.structured_data.items():
