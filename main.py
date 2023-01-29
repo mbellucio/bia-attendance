@@ -4,7 +4,7 @@ from playtime_calculator import PlaytimeCalculator
 
 
 #===============================
-FILENAME = 'BIA_WW2_2023_01_15'
+FILENAME = 'BIA_WW2_2023_01_22'
 #===============================
 
 
