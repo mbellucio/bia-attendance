@@ -2,10 +2,11 @@ import json
 
 class DataStructurer:
 
-    def __init__(self, processed_log:list, file_name:str):
+    def __init__(self, processed_log:list, file_name:str, month:str):
         self.data = processed_log
         self.data_by_player = {}
         self.file_name = file_name
+        self.month = month
 
     def organize_by_player(self):
         for item in self.data:
@@ -23,7 +24,7 @@ class DataStructurer:
 
     def generate_json(self):
         json_data = json.dumps(self.data_by_player)
-        with open(f'consult_data/{self.file_name}.json', mode='w', encoding='utf-8') as outfile:
+        with open(f'consult_data/{self.month}/{self.file_name}.json', mode='w', encoding='utf-8') as outfile:
             outfile.write(json_data)
 
             

@@ -4,16 +4,17 @@ from playtime_calculator import PlaytimeCalculator
 
 
 #===============================
-FILENAME = 'BIA_WW2_2023_01_29'
+FILENAME = 'BIA_TRN_2023_02_14'
+MONTH = 'february'
 #===============================
 
 
-log_processor = LogProcessor(file_name=FILENAME)
+log_processor = LogProcessor(file_name=FILENAME, month=MONTH)
 log_data = log_processor.process_log()
 
-data_structurer = DataStructurer(processed_log=log_data, file_name=FILENAME)
+data_structurer = DataStructurer(processed_log=log_data, file_name=FILENAME, month=MONTH)
 structured_data = data_structurer.organize_by_player()
 
-playtime_calculator = PlaytimeCalculator(structured_data=structured_data, filename=FILENAME)
+playtime_calculator = PlaytimeCalculator(structured_data=structured_data, filename=FILENAME, month=MONTH)
 playtime_calculator.final_attendance()
 
