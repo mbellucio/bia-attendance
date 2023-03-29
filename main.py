@@ -4,7 +4,7 @@ from playtime_calculator import PlaytimeCalculator
 
 
 #===============================
-FILENAME = 'BIA_VTN_2023_03_23'
+FILENAME = 'BIA_WW2_2023_03_26'
 MONTH = 'march'
 #===============================
 
