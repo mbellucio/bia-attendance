@@ -8,7 +8,7 @@ class PlaytimeCalculator:
         self.structured_data = structured_data
         self.file_name = filename
         self.month = month
-        self.minimum_playtime = 90
+        self.minimum_playtime = 130
 
     def final_attendance(self):
         for name, status in self.structured_data.items():
@@ -28,7 +28,7 @@ class PlaytimeCalculator:
 
             type_test = self.file_name.split("_")
             if type_test[1] == 'TRN':
-                self.minimum_playtime = 20
+                self.minimum_playtime = 60
 
             if playtime_in_minutes > self.minimum_playtime:
                 self.attended_list.append(name)
