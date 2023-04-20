@@ -2,13 +2,13 @@ import arrow
 import pandas
 
 class PlaytimeCalculator:
-    def __init__(self, structured_data:dict, filename:str, month:str):
+    def __init__(self, structured_data:dict, filename:str, month:str, mission_duration:int):
         self.attended_list = []
         self.lost_attendance = []
         self.structured_data = structured_data
         self.file_name = filename
         self.month = month
-        self.minimum_playtime = 130
+        self.minimum_playtime = mission_duration
 
     def final_attendance(self):
         for name, status in self.structured_data.items():
