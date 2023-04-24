@@ -28,7 +28,7 @@ class PlaytimeCalculator:
 
             type_test = self.file_name.split("_")
             if type_test[1] == 'TRN':
-                self.minimum_playtime = 60
+                self.minimum_playtime = 40
 
             if playtime_in_minutes > self.minimum_playtime:
                 self.attended_list.append(name)
