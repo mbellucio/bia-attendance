@@ -1,9 +1,6 @@
 {
-  "BIA_MOD_2023_04_20": [
-    {"Duration": 135}
-  ],
-  "BIA_WW2_2023_04_23": [
-    {"Duration": 142}
-  ]
+  "BIA_MOD_2023_04_20": [{ "Duration": 135 }],
+  "BIA_WW2_2023_04_23": [{ "Duration": 142 }],
+  "BIA_MOD_2023_04_27": [{ "Duration": 138 }],
+  "BIA_WW2_2023_04_30": [{ "Duration": 127 }]
 }
-
