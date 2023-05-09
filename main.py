@@ -4,9 +4,9 @@ from playtime_calculator import PlaytimeCalculator
 
 
 #===============================
-FILENAME = 'BIA_WW2_2023_04_30'
+FILENAME = 'BIA_TRN_2023_05_02'
 MONTH = 'may'
-MISSION_DURATION = 127; 
+MISSION_DURATION = 139; 
 #===============================
 
 
