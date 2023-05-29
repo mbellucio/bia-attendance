@@ -8,7 +8,7 @@ chrome_driver_path = r"chromedriver.exe"
 s = Service(chrome_driver_path)
 driver = webdriver.Chrome(service=s)
 
-mission_link = 'https://biaarma.com/event/cold-war-campaign-phase-2before-nuclear-war-8f90'
+mission_link = 'https://biaarma.com/event/OpProjectArctic'
 
 op_name = mission_link.split('/')
 op_name = op_name[4]
