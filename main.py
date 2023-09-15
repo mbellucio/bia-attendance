@@ -4,14 +4,14 @@ from playtime_calculator import PlaytimeCalculator
 from mission_duration.duration import get_mission_duration
 
 # ===============================
-FILENAME = 'BIA_TRN_2023_07_25'
-MONTH = 'july'
+FILENAME = 'BIA_TRN_2023_09_12'
+MONTH = 'september'
 # ===============================
 
-try: 
-  mission_duration = get_mission_duration(month=MONTH, mission=FILENAME)
+try:
+    mission_duration = get_mission_duration(month=MONTH, mission=FILENAME)
 except KeyError:
-  mission_duration = None
+    mission_duration = None
 
 log_processor = LogProcessor(file_name=FILENAME, month=MONTH)
 log_data = log_processor.process_log()
