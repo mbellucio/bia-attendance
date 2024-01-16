@@ -2,13 +2,12 @@ import pandas
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-# from main import MONTH
 
 chrome_driver_path = r"chromedriver.exe"
 s = Service(chrome_driver_path)
 driver = webdriver.Chrome(service=s)
 
-mission_link = 'https://biaarma.com/event/OpEsseqConflict'
+mission_link = 'https://biaarma.com/event/OpBattleDompaire'
 
 op_name = mission_link.split('/')
 op_name = op_name[4]
@@ -30,7 +29,7 @@ for item in slots:
         slot_name.append(info[0])
     except IndexError:
         pass
-    
+
 data = slot_attendant
 
 date = date.text.split()[1]
@@ -42,9 +41,8 @@ print(file_name)
 
 
 dataframe = pandas.DataFrame(data=data)
-dataframe.to_csv(f'website_slots/december/{file_name}')
+dataframe.to_csv(f'website_slots/2024/january/{file_name}')
 
 # ==================================================================================================================== #
 driver.quit()
 # ==================================================================================================================== #
-

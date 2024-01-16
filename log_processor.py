@@ -1,6 +1,6 @@
 class LogProcessor:
 
-    def __init__(self, file_name:str, month:str):
+    def __init__(self, file_name:str, month:str, year:str):
         """Insert only the file name, without the extension, example: '.txt' """
         
         self.rows = []
@@ -9,7 +9,7 @@ class LogProcessor:
         self.final_log = []
         self.unwanted_characters = ["/n", "."]
         self.filter_params = ['connected', 'disconnected']
-        self.file_path = f'logs/{month}/{file_name}.txt'
+        self.file_path = f'logs/{year}/{month}/{file_name}.txt'
         self.time_index = 0
         self.name_index = 2
         self.status_index = -1

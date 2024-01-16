@@ -2,13 +2,14 @@ import arrow
 import pandas
 
 class PlaytimeCalculator:
-    def __init__(self, structured_data:dict, filename:str, month:str, mission_duration:int):
+    def __init__(self, structured_data:dict, filename:str, month:str, mission_duration:int, year:str):
         self.attended_list = []
         self.lost_attendance = []
         self.structured_data = structured_data
         self.file_name = filename
         self.month = month
         self.minimum_playtime = mission_duration
+        self.year = year
 
     def final_attendance(self):
         for name, status in self.structured_data.items():
@@ -39,7 +40,7 @@ class PlaytimeCalculator:
     
     def generate_file(self):
         final_data_attended = pandas.DataFrame(self.attended_list)
-        final_data_attended.to_csv(f"attendance/{self.month}/{self.file_name}.csv")
+        final_data_attended.to_csv(f"attendance/{self.year}/{self.month}/{self.file_name}.csv")
 
         final_data_lost_att = pandas.DataFrame(self.lost_attendance)
-        final_data_lost_att.to_csv(f"lost_attendance/{self.month}/{self.file_name}.csv")
+        final_data_lost_att.to_csv(f"lost_attendance/{self.year}/{self.month}/{self.file_name}.csv")
