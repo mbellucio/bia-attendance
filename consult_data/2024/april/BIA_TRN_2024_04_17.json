@@ -1,0 +1,91 @@
+{
+  "Abramusas": [
+    ["18:47:03", "connected"],
+    ["18:47:25", "disconnected"],
+    ["19:47:36", "connected"],
+    ["21:10:36", "disconnected"]
+  ],
+  "Orbit": [
+    ["19:40:57", "connected"],
+    ["20:01:45", "disconnected"],
+    ["20:03:59", "connected"],
+    ["21:03:01", "disconnected"]
+  ],
+  "Martis": [
+    ["19:45:07", "connected"],
+    ["21:10:20", "disconnected"]
+  ],
+  "Danny": [
+    ["19:45:54", "connected"],
+    ["20:13:48", "disconnected"],
+    ["20:14:15", "connected"],
+    ["20:46:47", "disconnected"]
+  ],
+  "Vlad": [
+    ["19:46:08", "connected"],
+    ["21:03:01", "disconnected"]
+  ],
+  "ViperX[BiA]": [
+    ["19:50:49", "connected"],
+    ["21:09:59", "disconnected"]
+  ],
+  "Murdock": [
+    ["19:52:32", "connected"],
+    ["20:42:08", "disconnected"],
+    ["20:42:13", "connected"],
+    ["21:10:23", "disconnected"],
+    ["21:13:25", "connected"],
+    ["22:05:04", "disconnected"]
+  ],
+  "CDT": [
+    ["19:54:00", "connected"],
+    ["19:54:01", "disconnected"]
+  ],
+  "Glenn": [
+    ["19:55:09", "connected"],
+    ["20:01:53", "disconnected"],
+    ["20:03:11", "disconnected"],
+    ["20:03:38", "disconnected"],
+    ["20:05:23", "disconnected"],
+    ["20:06:58", "connected"],
+    ["21:16:15", "disconnected"]
+  ],
+  "Spud": [
+    ["19:55:32", "connected"],
+    ["21:09:57", "disconnected"],
+    ["21:11:35", "connected"],
+    ["21:54:34", "disconnected"]
+  ],
+  "Mo": [
+    ["19:55:58", "connected"],
+    ["21:10:38", "disconnected"]
+  ],
+  "Dr": [
+    ["19:57:08", "connected"],
+    ["21:09:22", "disconnected"]
+  ],
+  "Imbalance": [
+    ["19:59:37", "connected"],
+    ["21:16:05", "disconnected"]
+  ],
+  "Zero": [
+    ["20:00:55", "connected"],
+    ["21:05:31", "disconnected"]
+  ],
+  "Bobi[BiA]": [
+    ["20:01:40", "connected"],
+    ["20:56:14", "disconnected"]
+  ],
+  "Wolfmother": [
+    ["20:03:24", "connected"],
+    ["21:24:28", "disconnected"]
+  ],
+  "Lord[BiA]": [
+    ["20:12:13", "connected"],
+    ["21:29:09", "disconnected"]
+  ],
+  "niceguyphil": [
+    ["21:13:10", "connected"],
+    ["22:05:09", "disconnected"]
+  ]
+}
