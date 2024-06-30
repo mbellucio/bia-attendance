@@ -4,7 +4,7 @@ from playtime_calculator import PlaytimeCalculator
 from mission_duration.duration import get_mission_duration
 
 # ===============================
-FILENAME = 'BIA_TRN_2024_06_25'
+FILENAME = 'BIA_MOD_2024_06_27'
 MONTH = 'june'
 YEAR = '2024'
 # ===============================
