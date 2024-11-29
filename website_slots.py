@@ -7,7 +7,7 @@ chrome_driver_path = r"chromedriver.exe"
 s = Service(chrome_driver_path)
 driver = webdriver.Chrome(service=s)
 
-mission_link = 'https://biaarma.com/event/OpFarewellGermany1'
+mission_link = 'https://biaarma.com/event/OpBattleForKuwaitAirport1'
 
 op_name = mission_link.split('/')
 op_name = op_name[4]
@@ -41,7 +41,7 @@ print(file_name)
 
 
 dataframe = pandas.DataFrame(data=data)
-dataframe.to_csv(f'website_slots/2024/october/{file_name}')
+dataframe.to_csv(f'website_slots/2024/november/{file_name}')
 
 # ==================================================================================================================== #
 driver.quit()
