@@ -1,3 +1,4 @@
+import os
 import json
 
 class DataStructurer:
@@ -24,8 +25,15 @@ class DataStructurer:
         return self.data_by_player
 
     def generate_json(self):
-        json_data = json.dumps(self.data_by_player)
-        with open(f'consult_data/{self.year}/{self.month}/{self.file_name}.json', mode='w', encoding='utf-8') as outfile:
-            outfile.write(json_data)
+      directory = f'consult_data/{self.year}/{self.month}'
+      
+      if not os.path.exists(directory):
+          os.makedirs(directory, exist_ok=True)
+      
+      file_path = f'{directory}/{self.file_name}.json'
+      json_data = json.dumps(self.data_by_player)
+      
+      with open(file_path, mode='w', encoding='utf-8') as outfile:
+          outfile.write(json_data)
 
         

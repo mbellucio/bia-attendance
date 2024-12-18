@@ -2,11 +2,12 @@ from log_processor import LogProcessor
 from data_structurer import DataStructurer
 from playtime_calculator import PlaytimeCalculator
 from mission_duration.duration import get_mission_duration
+import calendar
 
 # ===============================
-FILENAME = 'BIA_TRN_2024_11_26'
-MONTH = 'november'
-YEAR = '2024'
+FILENAME = 'BIA_WW2_2024_12_01'
+MONTH = calendar.month_name[int(FILENAME.split('_')[3])].lower()
+YEAR = FILENAME.split('_')[2]
 # ===============================
 
 try:
