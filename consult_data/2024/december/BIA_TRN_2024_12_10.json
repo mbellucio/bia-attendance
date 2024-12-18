@@ -1,0 +1,257 @@
+{
+  "Kofeina[BIA]": [
+    ["19:32:31", "connected"],
+    ["19:32:33", "disconnected"],
+    ["19:39:28", "connected"],
+    ["21:06:30", "disconnected"]
+  ],
+  "Tole[BiA]": [
+    ["19:49:46", "connected"],
+    ["19:49:49", "disconnected"],
+    ["19:47:13", "connected"],
+    ["20:59:52", "disconnected"]
+  ],
+  "Uni_Play": [
+    ["20:09:25", "connected"],
+    ["20:56:37", "disconnected"],
+    ["20:59:44", "connected"],
+    ["22:07:15", "disconnected"],
+    ["20:36:08", "connected"],
+    ["20:36:15", "disconnected"],
+    ["20:38:35", "connected"],
+    ["21:02:50", "disconnected"]
+  ],
+  "Miletic": [
+    ["20:18:23", "connected"],
+    ["20:40:40", "disconnected"],
+    ["20:41:00", "disconnected"],
+    ["20:43:02", "disconnected"],
+    ["20:46:46", "connected"],
+    ["22:07:13", "disconnected"]
+  ],
+  "oz": [
+    ["20:39:13", "connected"],
+    ["20:50:58", "disconnected"],
+    ["20:51:15", "connected"],
+    ["20:54:19", "disconnected"],
+    ["21:03:22", "connected"],
+    ["21:09:42", "disconnected"]
+  ],
+  "Ozon": [
+    ["21:11:47", "connected"],
+    ["21:41:52", "disconnected"],
+    ["21:42:25", "disconnected"],
+    ["21:42:37", "disconnected"],
+    ["21:43:15", "disconnected"],
+    ["21:43:28", "disconnected"],
+    ["21:44:36", "disconnected"],
+    ["21:48:23", "connected"],
+    ["22:01:19", "disconnected"]
+  ],
+  "YourDoctor": [
+    ["19:08:58", "connected"],
+    ["19:51:06", "disconnected"],
+    ["19:51:22", "connected"],
+    ["19:52:32", "disconnected"],
+    ["19:54:06", "connected"],
+    ["20:33:11", "disconnected"]
+  ],
+  "seedorf": [
+    ["19:09:52", "connected"],
+    ["21:01:24", "disconnected"]
+  ],
+  "D0CTOR": [
+    ["19:16:20", "connected"],
+    ["21:01:29", "disconnected"]
+  ],
+  "Skywalker": [
+    ["19:31:35", "connected"],
+    ["21:00:01", "disconnected"]
+  ],
+  "Zero": [
+    ["19:36:40", "connected"],
+    ["21:07:15", "disconnected"]
+  ],
+  "Usagi": [
+    ["19:37:45", "connected"],
+    ["20:59:50", "disconnected"]
+  ],
+  "Rad": [
+    ["19:38:21", "connected"],
+    ["21:02:42", "disconnected"]
+  ],
+  "martis": [
+    ["19:38:32", "connected"],
+    ["21:01:06", "disconnected"]
+  ],
+  "Orbit": [
+    ["19:39:45", "connected"],
+    ["19:40:49", "disconnected"]
+  ],
+  "KostasGamer": [
+    ["19:41:49", "connected"],
+    ["20:56:11", "disconnected"]
+  ],
+  "Luanmh": [
+    ["19:42:35", "connected"],
+    ["19:46:25", "disconnected"],
+    ["19:48:41", "connected"],
+    ["21:01:23", "disconnected"]
+  ],
+  "ivaan": [
+    ["19:42:42", "connected"],
+    ["19:42:44", "disconnected"]
+  ],
+  "Kaczomen": [
+    ["19:42:52", "connected"],
+    ["20:54:43", "disconnected"]
+  ],
+  "Rio": [
+    ["19:43:02", "connected"],
+    ["21:02:39", "disconnected"]
+  ],
+  "Johnny": [
+    ["19:43:06", "connected"],
+    ["20:59:46", "disconnected"]
+  ],
+  "Blackshadow": [
+    ["19:44:07", "connected"],
+    ["20:25:43", "disconnected"],
+    ["20:26:37", "connected"],
+    ["21:00:06", "disconnected"]
+  ],
+  "Sclembi": [
+    ["19:44:29", "connected"],
+    ["20:59:50", "disconnected"]
+  ],
+  "Flappy": [
+    ["19:44:34", "connected"],
+    ["19:58:36", "disconnected"],
+    ["20:23:53", "connected"],
+    ["21:00:49", "disconnected"]
+  ],
+  "Vlad": [
+    ["19:45:13", "connected"],
+    ["20:59:47", "disconnected"]
+  ],
+  "Nanard": [
+    ["19:45:18", "connected"],
+    ["20:59:45", "disconnected"]
+  ],
+  "Zex": [
+    ["19:45:26", "connected"],
+    ["21:00:35", "disconnected"]
+  ],
+  "Boza": [
+    ["19:45:27", "connected"],
+    ["20:12:40", "disconnected"],
+    ["20:14:12", "connected"],
+    ["20:45:48", "disconnected"],
+    ["20:47:27", "connected"],
+    ["21:01:47", "disconnected"]
+  ],
+  "Mauser": [
+    ["19:45:38", "connected"],
+    ["20:59:46", "disconnected"]
+  ],
+  "Mini": [
+    ["19:45:50", "connected"],
+    ["20:59:58", "disconnected"]
+  ],
+  "Chewie": [
+    ["19:46:14", "connected"],
+    ["21:00:04", "disconnected"]
+  ],
+  "Lauri01": [
+    ["19:46:37", "connected"],
+    ["19:47:49", "disconnected"],
+    ["19:53:45", "connected"],
+    ["20:54:33", "disconnected"]
+  ],
+  "Punisher[BIA]": [
+    ["19:47:08", "connected"],
+    ["21:06:01", "disconnected"]
+  ],
+  "Dimi": [
+    ["19:47:27", "connected"],
+    ["20:54:50", "disconnected"]
+  ],
+  "Psion": [
+    ["19:48:04", "connected"],
+    ["20:00:08", "disconnected"],
+    ["20:04:00", "connected"],
+    ["20:08:42", "disconnected"]
+  ],
+  "Aleksa": [
+    ["19:49:00", "connected"],
+    ["20:54:42", "disconnected"]
+  ],
+  "Heinrich": [
+    ["19:52:12", "connected"],
+    ["21:00:03", "disconnected"]
+  ],
+  "Bobi": [
+    ["19:52:43", "connected"],
+    ["20:59:47", "disconnected"]
+  ],
+  "Frenki": [
+    ["19:56:28", "connected"],
+    ["20:01:26", "disconnected"],
+    ["20:02:13", "connected"],
+    ["21:02:38", "disconnected"]
+  ],
+  "John": [
+    ["19:57:34", "connected"],
+    ["21:00:43", "disconnected"]
+  ],
+  "Murdock": [
+    ["19:58:31", "connected"],
+    ["21:01:13", "disconnected"]
+  ],
+  "Jason": [
+    ["19:58:44", "connected"],
+    ["20:59:59", "disconnected"]
+  ],
+  "Lazar": [
+    ["19:58:50", "connected"],
+    ["21:01:33", "disconnected"]
+  ],
+  "Dr": [
+    ["19:59:31", "connected"],
+    ["21:02:23", "disconnected"]
+  ],
+  "Igor": [
+    ["20:00:55", "connected"],
+    ["20:54:36", "disconnected"]
+  ],
+  "Abramusas": [
+    ["20:01:05", "connected"],
+    ["20:01:22", "disconnected"],
+    ["20:07:35", "connected"],
+    ["21:00:20", "disconnected"]
+  ],
+  "niceguyphil": [
+    ["20:01:49", "connected"],
+    ["21:07:47", "disconnected"]
+  ],
+  "Wolfmother": [
+    ["20:02:21", "connected"],
+    ["21:01:39", "disconnected"]
+  ],
+  "WJarvis": [
+    ["20:04:25", "connected"],
+    ["20:59:46", "disconnected"]
+  ],
+  "Lipe": [
+    ["20:07:54", "connected"],
+    ["21:00:07", "disconnected"]
+  ],
+  "Louis_Bolgarov": [
+    ["20:20:37", "connected"],
+    ["20:59:45", "disconnected"]
+  ],
+  "tootee": [
+    ["20:27:37", "connected"],
+    ["20:59:36", "disconnected"]
+  ]
+}
