@@ -1,6 +1,7 @@
 import arrow
 import pandas
 import os
+from helper import NAMEFIX
 
 
 class PlaytimeCalculator:
@@ -15,6 +16,16 @@ class PlaytimeCalculator:
 
     def final_attendance(self):
         for name, status in self.structured_data.items():
+
+            if "[BIA]" in name:
+                name = name.replace("[BIA]", "").strip()
+
+            if "[BiA]" in name:
+                name = name.replace("[BiA]", "").strip()
+
+            if name in NAMEFIX:
+                name = NAMEFIX[name]
+
             first_connect = status[0][0]
             last_disconnect = status[-1][0]
 
@@ -52,7 +63,9 @@ class PlaytimeCalculator:
             os.makedirs(lost_attendance_directory, exist_ok=True)
 
         final_data_attended = pandas.DataFrame(self.attended_list)
-        final_data_attended.to_csv(f"{attendance_directory}/{self.file_name}.csv")
+        final_data_attended.to_csv(
+            f"{attendance_directory}/{self.file_name}.csv")
 
         final_data_lost_att = pandas.DataFrame(self.lost_attendance)
-        final_data_lost_att.to_csv(f"{lost_attendance_directory}/{self.file_name}.csv")
+        final_data_lost_att.to_csv(
+            f"{lost_attendance_directory}/{self.file_name}.csv")
