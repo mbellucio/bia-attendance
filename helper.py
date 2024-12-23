@@ -1,4 +1,5 @@
 NAMEFIX = {
     "Dr": "Lexus",
-    "WJarvis": "W.Jarvis"
+    "WJarvis": "W.Jarvis",
+    "R": "Gonzalez"
 }
