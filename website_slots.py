@@ -7,6 +7,7 @@ import calendar
 import os
 import time
 from main import YEAR, MONTH
+from helper import WEBNAMEFIX
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
@@ -41,6 +42,15 @@ def month_string_to_number(month_str: str):
     return list(calendar.month_abbr).index(month_abbr)
 
 
+def fix_name(name):
+    name_fix = name
+    if "." in name_fix[-1]:
+        name_fix = name_fix.replace(".", "")
+    if name_fix in WEBNAMEFIX:
+        return WEBNAMEFIX[name_fix]
+    return name_fix
+
+
 def get_slots(mission_link: str, year: str, month: str):
     op_name = mission_link.split('/')
     op_name = op_name[4]
@@ -61,7 +71,7 @@ def get_slots(mission_link: str, year: str, month: str):
     for item in slots:
         info = item.text.splitlines()
         try:
-            slot_attendant.append(info[1])
+            slot_attendant.append(fix_name(info[1]))
             slot_name.append(info[0])
         except IndexError:
             pass
