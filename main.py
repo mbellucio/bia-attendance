@@ -5,8 +5,8 @@ from mission_duration.duration import get_mission_duration
 import os
 
 # =========================
-MONTH = 'december'
-YEAR = '2024'
+MONTH = 'january'
+YEAR = '2025'
 ROOT_DIR = 'logs'
 # =========================
 
