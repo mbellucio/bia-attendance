@@ -86,7 +86,7 @@ def get_slots(mission_link: str, year: str, month: str):
 
     dataframe = pandas.DataFrame(data=data)
 
-    if game == "Arma" or game == "ts1.biaarma.com":
+    if game == "Arma" or game == "ts1.biaarma.com" or game == "ts.ofcra.org":
         directory = f'website_slots/{year}/{month}'
         if not os.path.exists(directory):
             os.makedirs(directory, exist_ok=True)
