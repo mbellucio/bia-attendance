@@ -1,0 +1,186 @@
+{
+  "D0CTOR": [
+    ["19:30:09", "connected"],
+    ["21:20:09", "disconnected"]
+  ],
+  "Kofeina[BIA]": [
+    ["19:34:08", "connected"],
+    ["21:02:28", "disconnected"]
+  ],
+  "Sclembi": [
+    ["19:35:29", "connected"],
+    ["21:02:47", "disconnected"]
+  ],
+  "ViperX": [
+    ["19:35:42", "connected"],
+    ["21:02:24", "disconnected"]
+  ],
+  "Jason": [
+    ["19:36:06", "connected"],
+    ["20:05:10", "disconnected"],
+    ["20:05:40", "disconnected"],
+    ["20:08:47", "connected"],
+    ["20:09:19", "disconnected"],
+    ["20:15:17", "connected"],
+    ["21:02:51", "disconnected"]
+  ],
+  "Punisher[BIA]": [
+    ["19:37:26", "connected"],
+    ["21:02:32", "disconnected"]
+  ],
+  "YourDoctor": [
+    ["19:37:34", "connected"],
+    ["21:02:26", "disconnected"]
+  ],
+  "Bobi": [
+    ["19:38:25", "connected"],
+    ["21:02:23", "disconnected"]
+  ],
+  "tootee": [
+    ["19:39:01", "connected"],
+    ["21:02:34", "disconnected"]
+  ],
+  "John": [
+    ["19:39:14", "connected"],
+    ["19:42:06", "disconnected"],
+    ["19:42:16", "disconnected"],
+    ["19:43:09", "disconnected"],
+    ["19:44:13", "connected"],
+    ["21:02:30", "disconnected"]
+  ],
+  "Luanmh": [
+    ["19:39:43", "connected"],
+    ["20:04:50", "disconnected"],
+    ["20:04:56", "disconnected"],
+    ["20:05:07", "disconnected"],
+    ["20:07:44", "connected"],
+    ["21:02:41", "disconnected"]
+  ],
+  "cobe[BiA]": [
+    ["19:40:24", "connected"],
+    ["21:02:28", "disconnected"]
+  ],
+  "martis": [
+    ["19:41:03", "connected"],
+    ["21:02:29", "disconnected"]
+  ],
+  "RasaDeDam": [
+    ["19:41:31", "connected"],
+    ["21:02:40", "disconnected"]
+  ],
+  "Thasylea": [
+    ["19:42:20", "connected"],
+    ["21:02:34", "disconnected"]
+  ],
+  "KostasGamer": [
+    ["19:42:33", "connected"],
+    ["20:06:18", "disconnected"],
+    ["20:07:57", "connected"],
+    ["21:03:42", "disconnected"]
+  ],
+  "Szarik": [
+    ["19:43:05", "connected"],
+    ["21:02:18", "disconnected"]
+  ],
+  "Nanard": [
+    ["19:43:05", "connected"],
+    ["21:02:27", "disconnected"]
+  ],
+  "fresh_ziomal": [
+    ["19:44:03", "connected"],
+    ["21:02:37", "disconnected"]
+  ],
+  "Chak": [
+    ["19:44:11", "connected"],
+    ["21:02:35", "disconnected"]
+  ],
+  "niceguyphil": [
+    ["19:45:20", "connected"],
+    ["20:38:06", "disconnected"],
+    ["20:38:49", "connected"],
+    ["21:03:21", "disconnected"]
+  ],
+  "Murdock": [
+    ["19:46:01", "connected"],
+    ["21:02:28", "disconnected"]
+  ],
+  "Anctus": [
+    ["19:46:53", "connected"],
+    ["21:38:46", "disconnected"]
+  ],
+  "Burger[BiA]": [
+    ["19:47:36", "connected"],
+    ["21:02:41", "disconnected"]
+  ],
+  "Aleksa": [
+    ["19:47:39", "connected"],
+    ["21:02:41", "disconnected"]
+  ],
+  "Uni_Play": [
+    ["19:48:40", "connected"],
+    ["21:39:00", "disconnected"]
+  ],
+  "Bovan": [
+    ["19:50:51", "connected"],
+    ["21:02:38", "disconnected"]
+  ],
+  "Miletic": [
+    ["19:51:46", "connected"],
+    ["21:02:33", "disconnected"]
+  ],
+  "Flappy": [
+    ["19:52:36", "connected"],
+    ["21:03:12", "disconnected"]
+  ],
+  "WJarvis": [
+    ["19:52:51", "connected"],
+    ["21:02:18", "disconnected"]
+  ],
+  "Zex": [
+    ["19:53:16", "connected"],
+    ["20:05:16", "disconnected"],
+    ["20:05:31", "disconnected"],
+    ["20:10:02", "connected"],
+    ["21:02:40", "disconnected"]
+  ],
+  "Exillius": [
+    ["19:53:33", "connected"],
+    ["21:15:14", "disconnected"]
+  ],
+  "Arin": [
+    ["19:53:50", "connected"],
+    ["21:30:18", "disconnected"]
+  ],
+  "Psion": [
+    ["19:53:52", "connected"],
+    ["20:04:52", "disconnected"],
+    ["20:07:42", "connected"],
+    ["21:02:31", "disconnected"]
+  ],
+  "Bismark": [
+    ["19:54:29", "connected"],
+    ["21:02:35", "disconnected"]
+  ],
+  "Mo": [
+    ["19:57:08", "connected"],
+    ["21:38:43", "disconnected"]
+  ],
+  "Kaczomen": [
+    ["20:00:22", "connected"],
+    ["21:02:30", "disconnected"]
+  ],
+  "Mini": [
+    ["20:02:23", "connected"],
+    ["21:03:40", "disconnected"]
+  ],
+  "seedorf": [
+    ["20:03:16", "connected"],
+    ["20:04:53", "disconnected"],
+    ["20:08:13", "connected"],
+    ["21:06:02", "disconnected"]
+  ],
+  "Joe": [
+    ["20:05:56", "connected"],
+    ["21:02:47", "disconnected"]
+  ]
+}
