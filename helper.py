@@ -12,5 +12,7 @@ WEBNAMEFIX = {
     "UniPlay": "Uni_play",
     "Mini_Puppet_HD": "Mini",
     "Viper": "Viperx",
-    "WJarvis": "W.Jarvis"
+    "WJarvis": "W.Jarvis",
+    "fresh ziomal": "fresh_ziomal",
+    "Bismarck": "Bismark"
 }
