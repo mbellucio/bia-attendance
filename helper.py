@@ -16,5 +16,7 @@ WEBNAMEFIX = {
     "WJarvis": "W.Jarvis",
     "fresh ziomal": "fresh_ziomal",
     "Bismarck": "Bismark",
-    "Lauri": "Lauri01"
+    "Lauri": "Lauri01",
+    "Bugs Bunny": "Bugs_Bunny",
+    "Vegas_X9": "Vegas"
 }
