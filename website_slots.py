@@ -80,10 +80,11 @@ def get_slots(mission_link: str, year: str, month: str):
 
     date = date.text.split()[1]
     date = date.replace('/', '-')
-    date = pandas.to_datetime(date)
+    date = pandas.to_datetime(date, dayfirst=True)
     date = f'{date.month}-{date.day}'
     file_name = f'{op_name}-{date}.csv'
-
+    print(f'filename: {file_name}')
+    print(f'game: {game}')
     dataframe = pandas.DataFrame(data=data)
 
     if game == "Arma" or game == "ts1.biaarma.com" or game == "ts.ofcra.org":
