@@ -2,5 +2,9 @@
   "BIA_MOD_2025_07_03": { "Duration": 117 },
   "BIA_WW2_2025_07_06": { "Duration": 103 },
   "BIA_VTN_2025_07_10": { "Duration": 199 },
-  "BIA_WW2_2025_07_13": { "Duration": 136 }
+  "BIA_WW2_2025_07_13": { "Duration": 136 },
+  "BIA_WW2_2025_07_17": { "Duration": 149 },
+  "BIA_VTN_2025_07_20": { "Duration": 142 },
+  "BIA_VTN_2025_07_24": { "Duration": 155 },
+  "BIA_WW2_2025_07_27": { "Duration": 156 }
 }
