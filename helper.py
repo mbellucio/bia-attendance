@@ -4,7 +4,8 @@ NAMEFIX = {
     "R": "Gonzalez",
     "Bugs": "Bugs_Bunny",
     "Lt": "Jerry",
-    "FltLt": "KillerCake"
+    "FltLt": "KillerCake",
+    "PFC": "X. Piotr"
 }
 
 WEBNAMEFIX = {
