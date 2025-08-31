@@ -3,5 +3,9 @@
   "BIA_CW_2025_08_07": { "Duration": 122 },
   "BIA_WW2_2025_08_10": { "Duration": 153 },
   "BIA_MOD_2025_08_14": { "Duration": 155 },
-  "BIA_WW2_2025_08_17": { "Duration": 162 }
+  "BIA_WW2_2025_08_17": { "Duration": 162 },
+  "BIA_CW_2025_08_21": { "Duration": 115 },
+  "BIA_SPC_2025_08_23": { "Duration": 204 },
+  "BIA_VTN_2025_08_28": { "Duration": 150 },
+  "BIA_WW2_2025_08_31": { "Duration": 169 }
 }
