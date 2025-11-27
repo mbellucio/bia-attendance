@@ -8,6 +8,7 @@ NAMEFIX = {
     "PFC": "X. Piotr",
     "J": "Archer",
     "Sp33dK1ng": "SpeedKing",
+    "SLux": "S.Lux",
 }
 
 WEBNAMEFIX = {
