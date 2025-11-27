@@ -5,7 +5,9 @@ NAMEFIX = {
     "Bugs": "Bugs_Bunny",
     "Lt": "Jerry",
     "FltLt": "KillerCake",
-    "PFC": "X. Piotr"
+    "PFC": "X. Piotr",
+    "J": "Archer",
+    "Sp33dK1ng": "SpeedKing",
 }
 
 WEBNAMEFIX = {
