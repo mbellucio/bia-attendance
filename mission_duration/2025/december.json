@@ -2,5 +2,8 @@
   "BIA_MOD_2025_12_04": { "Duration": 145 },
   "BIA_WW2_2025_12_07": { "Duration": 136 },
   "BIA_CW_2025_12_11": { "Duration": 148 },
-  "BIA_SPC_2025_12_13": { "Duration": 214 }
+  "BIA_SPC_2025_12_13": { "Duration": 214 },
+  "BIA_MOD_2025_12_18": { "Duration": 168 },
+  "BIA_WW2_2025_12_21": { "Duration": 143 },
+  "BIA_WW2_2025_12_28": { "Duration": 208 }
 }
