@@ -11,7 +11,7 @@ class PlaytimeCalculator:
         self.structured_data = structured_data
         self.file_name = filename
         self.month = month
-        self.minimum_playtime = mission_duration
+        self.minimum_playtime = mission_duration + 15
         self.year = year
 
     def final_attendance(self):
