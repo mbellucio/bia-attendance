@@ -3,5 +3,9 @@
   "BIA_VTN_2026_03_05": { "Duration": 135 },
   "BIA_WW2_2026_03_08": { "Duration": 154 },
   "BIA_VTN_2026_03_12": { "Duration": 180 },
-  "BIA_WW2_2026_03_15": { "Duration": 148 }
+  "BIA_WW2_2026_03_15": { "Duration": 148 },
+  "BIA_VTN_2026_03_19": { "Duration": 178 },
+  "BIA_WW2_2026_03_22": { "Duration": 150 },
+  "BIA_VTN_2026_03_26": { "Duration": 152 },
+  "BIA_WW2_2026_03_29": { "Duration": 145 }
 }
