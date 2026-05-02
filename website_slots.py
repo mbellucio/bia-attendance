@@ -2,6 +2,8 @@ import pandas
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import calendar
 import os
@@ -18,7 +20,9 @@ def get_links(month: int):
     url = 'https://biaarma.com/previous-events'
     driver.get(url)
 
-    print("hello")
+    WebDriverWait(driver, 30).until(
+        EC.presence_of_element_located((By.CLASS_NAME, 'table'))
+    )
     table = driver.find_element(By.CLASS_NAME, value='table')
     rows = table.find_elements(By.TAG_NAME, 'tr')[1:]
     date_column_index = 4
@@ -60,6 +64,9 @@ def get_slots(mission_link: str, year: str, month: str):
 
     driver.get(mission_link)
 
+    WebDriverWait(driver, 30).until(
+        EC.presence_of_element_located((By.CLASS_NAME, 'pn-event-slot'))
+    )
     slots = driver.find_elements(By.CLASS_NAME, value='pn-event-slot')
     date = driver.find_element(By.CLASS_NAME, value='event-label')
     game = driver.find_element(
