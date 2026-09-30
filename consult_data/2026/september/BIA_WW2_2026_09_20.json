@@ -1,0 +1,459 @@
+{
+  "Zero": [
+    ["19:06:24", "connected"],
+    ["23:33:14", "disconnected"],
+    ["23:37:29", "connected"],
+    ["23:50:08", "disconnected"]
+  ],
+  "Gog": [
+    ["19:06:30", "connected"],
+    ["22:31:28", "disconnected"],
+    ["22:32:53", "connected"],
+    ["23:44:46", "disconnected"]
+  ],
+  "Imbalance": [
+    ["19:07:12", "connected"],
+    ["23:44:35", "disconnected"]
+  ],
+  "Solo": [
+    ["19:07:33", "connected"],
+    ["19:50:29", "disconnected"],
+    ["19:50:36", "connected"],
+    ["23:47:10", "disconnected"]
+  ],
+  "Bovan": [
+    ["19:07:54", "connected"],
+    ["23:44:35", "disconnected"]
+  ],
+  "kilaaa": [
+    ["19:08:23", "connected"],
+    ["19:08:40", "disconnected"],
+    ["19:40:03", "connected"],
+    ["23:40:46", "disconnected"]
+  ],
+  "Kofeina[BIA]": [
+    ["19:08:41", "connected"],
+    ["19:30:55", "disconnected"],
+    ["19:32:20", "connected"],
+    ["23:44:45", "disconnected"]
+  ],
+  "Hunter": [
+    ["19:09:29", "connected"],
+    ["23:44:33", "disconnected"]
+  ],
+  "T1MOROS": [
+    ["19:10:09", "connected"],
+    ["23:44:53", "disconnected"]
+  ],
+  "MTS_XCloud66[BIA]": [
+    ["19:10:14", "connected"],
+    ["22:38:59", "disconnected"],
+    ["22:44:19", "connected"],
+    ["23:25:19", "disconnected"]
+  ],
+  "fresh_ziomal": [
+    ["19:10:38", "connected"],
+    ["20:08:46", "disconnected"],
+    ["20:10:07", "connected"],
+    ["20:33:02", "disconnected"],
+    ["20:36:51", "connected"],
+    ["23:44:46", "disconnected"]
+  ],
+  "Burger[BiA]": [
+    ["19:10:43", "connected"],
+    ["23:44:52", "disconnected"]
+  ],
+  "YourDoctor": [
+    ["19:11:13", "connected"],
+    ["23:44:31", "disconnected"]
+  ],
+  "Aris[BIA]": [
+    ["19:11:24", "connected"],
+    ["23:44:45", "disconnected"]
+  ],
+  "WJarvis": [
+    ["19:11:49", "connected"],
+    ["23:44:36", "disconnected"]
+  ],
+  "Bogi": [
+    ["19:12:16", "connected"],
+    ["19:38:56", "disconnected"],
+    ["19:39:04", "connected"],
+    ["23:44:46", "disconnected"]
+  ],
+  "Psion": [
+    ["19:13:28", "connected"],
+    ["23:44:44", "disconnected"]
+  ],
+  "Alice": [
+    ["19:14:09", "connected"],
+    ["23:45:15", "disconnected"]
+  ],
+  "MTS_KoukoS[BIA]": [
+    ["19:14:30", "connected"],
+    ["23:46:15", "disconnected"]
+  ],
+  "Anctus": [
+    ["19:14:30", "connected"],
+    ["23:44:57", "disconnected"]
+  ],
+  "Anestis": [
+    ["19:14:38", "connected"],
+    ["23:44:57", "disconnected"]
+  ],
+  "Berkin": [
+    ["19:15:16", "connected"],
+    ["23:44:48", "disconnected"]
+  ],
+  "RasaDeDam": [
+    ["19:15:47", "connected"],
+    ["23:44:46", "disconnected"]
+  ],
+  "Lord[BiA]": [
+    ["19:15:58", "connected"],
+    ["23:44:45", "disconnected"]
+  ],
+  "roverangas12[BIA]": [
+    ["19:16:28", "connected"],
+    ["23:43:10", "disconnected"]
+  ],
+  "Ergones": [
+    ["19:16:30", "connected"],
+    ["23:44:49", "disconnected"]
+  ],
+  "Sebastian": [
+    ["19:17:01", "connected"],
+    ["23:44:34", "disconnected"]
+  ],
+  "Usagi": [
+    ["19:17:35", "connected"],
+    ["23:44:37", "disconnected"]
+  ],
+  "EFiaLtis": [
+    ["19:17:48", "connected"],
+    ["23:36:15", "disconnected"]
+  ],
+  "SSgt": [
+    ["19:18:01", "connected"],
+    ["19:18:55", "disconnected"]
+  ],
+  "Elias": [
+    ["19:18:07", "connected"],
+    ["22:56:08", "disconnected"],
+    ["22:58:23", "connected"],
+    ["23:34:57", "disconnected"]
+  ],
+  "Kaczomen": [
+    ["19:18:31", "connected"],
+    ["23:44:47", "disconnected"]
+  ],
+  "Bulia": [
+    ["19:18:40", "connected"],
+    ["20:02:16", "disconnected"],
+    ["20:02:30", "disconnected"],
+    ["20:06:53", "connected"],
+    ["23:44:50", "disconnected"]
+  ],
+  "Blind[BIA]": [
+    ["19:19:09", "connected"],
+    ["23:44:46", "disconnected"]
+  ],
+  "niceguyphil": [
+    ["19:19:11", "connected"],
+    ["23:44:36", "disconnected"]
+  ],
+  "CombatWombat": [
+    ["19:19:13", "connected"],
+    ["23:44:49", "disconnected"]
+  ],
+  "KillerCake": [
+    ["19:19:13", "connected"],
+    ["23:45:45", "disconnected"]
+  ],
+  "Patch": [
+    ["19:19:58", "connected"],
+    ["23:44:38", "disconnected"]
+  ],
+  "Davidaf": [
+    ["19:20:34", "connected"],
+    ["23:44:43", "disconnected"]
+  ],
+  "Miletic": [
+    ["19:20:46", "connected"],
+    ["23:44:47", "disconnected"]
+  ],
+  "angle": [
+    ["19:21:10", "connected"],
+    ["00:21:20", "disconnected"]
+  ],
+  "Momon": [
+    ["19:21:27", "connected"],
+    ["21:25:55", "disconnected"],
+    ["21:38:25", "connected"],
+    ["23:44:38", "disconnected"]
+  ],
+  "Exillius": [
+    ["19:21:29", "connected"],
+    ["23:44:42", "disconnected"]
+  ],
+  "D0CTOR": [
+    ["19:22:55", "connected"],
+    ["23:44:47", "disconnected"]
+  ],
+  "Tole[BIA]": [
+    ["19:23:11", "connected"],
+    ["20:27:56", "disconnected"],
+    ["20:29:27", "connected"],
+    ["20:38:44", "disconnected"],
+    ["20:46:05", "connected"],
+    ["23:44:47", "disconnected"]
+  ],
+  "Luanmh[BIA]": [
+    ["19:23:16", "connected"],
+    ["19:28:19", "disconnected"],
+    ["19:28:24", "connected"],
+    ["23:44:45", "disconnected"]
+  ],
+  "The": [
+    ["19:23:25", "connected"],
+    ["23:45:38", "disconnected"]
+  ],
+  "Ademola[BIA]": [
+    ["19:24:26", "connected"],
+    ["23:44:50", "disconnected"]
+  ],
+  "MTS_Trakawolf": [
+    ["19:24:34", "connected"],
+    ["19:52:55", "disconnected"],
+    ["19:54:28", "connected"],
+    ["00:02:32", "disconnected"]
+  ],
+  "Gangalore": [
+    ["19:24:46", "connected"],
+    ["23:44:44", "disconnected"]
+  ],
+  "J": [
+    ["19:24:47", "connected"],
+    ["22:56:53", "disconnected"]
+  ],
+  "Orbit": [
+    ["19:24:48", "connected"],
+    ["23:44:51", "disconnected"]
+  ],
+  "MTS_MikrosKleftis[BIA]": [
+    ["19:25:02", "connected"],
+    ["19:59:35", "disconnected"],
+    ["20:02:54", "connected"],
+    ["20:03:24", "disconnected"],
+    ["20:07:43", "connected"],
+    ["23:44:46", "disconnected"]
+  ],
+  "Murdock": [
+    ["19:25:17", "connected"],
+    ["19:40:37", "disconnected"],
+    ["19:43:39", "connected"],
+    ["19:43:53", "disconnected"],
+    ["19:50:44", "connected"],
+    ["20:20:42", "disconnected"],
+    ["20:21:06", "disconnected"],
+    ["20:22:51", "connected"],
+    ["20:23:26", "disconnected"],
+    ["20:24:48", "disconnected"],
+    ["20:26:04", "connected"],
+    ["20:34:32", "disconnected"],
+    ["20:38:41", "connected"],
+    ["20:41:00", "disconnected"],
+    ["20:45:37", "connected"],
+    ["20:50:40", "disconnected"],
+    ["20:53:59", "connected"],
+    ["20:58:12", "disconnected"],
+    ["21:02:33", "connected"],
+    ["21:09:05", "disconnected"],
+    ["21:14:53", "connected"],
+    ["23:44:39", "disconnected"]
+  ],
+  "Jojo2004": [
+    ["19:25:33", "connected"],
+    ["22:00:09", "disconnected"]
+  ],
+  "Bismark[BiA]": [
+    ["19:25:50", "connected"],
+    ["23:44:31", "disconnected"]
+  ],
+  "Gillette": [
+    ["19:25:51", "connected"],
+    ["23:44:45", "disconnected"]
+  ],
+  "Priestess": [
+    ["19:25:58", "connected"],
+    ["23:44:41", "disconnected"]
+  ],
+  "Mauser": [
+    ["19:26:30", "connected"],
+    ["23:44:50", "disconnected"]
+  ],
+  "Abramusas": [
+    ["19:26:50", "connected"],
+    ["23:44:47", "disconnected"]
+  ],
+  "SpeedKing": [
+    ["19:26:58", "connected"],
+    ["20:00:29", "disconnected"],
+    ["20:04:18", "connected"],
+    ["23:44:38", "disconnected"]
+  ],
+  "Chak": [
+    ["19:27:03", "connected"],
+    ["23:44:45", "disconnected"]
+  ],
+  "Yotza": [
+    ["19:27:54", "connected"],
+    ["23:44:45", "disconnected"]
+  ],
+  "Bio": [
+    ["19:27:58", "connected"],
+    ["23:44:33", "disconnected"]
+  ],
+  "Nebula": [
+    ["19:29:06", "connected"],
+    ["23:44:49", "disconnected"]
+  ],
+  "Aktis[BIA]": [
+    ["19:29:14", "connected"],
+    ["19:37:57", "disconnected"],
+    ["19:41:42", "connected"],
+    ["23:44:49", "disconnected"]
+  ],
+  "John": [
+    ["19:29:52", "connected"],
+    ["23:44:47", "disconnected"]
+  ],
+  "Henki": [
+    ["19:30:10", "connected"],
+    ["23:44:46", "disconnected"]
+  ],
+  "Bugs": [
+    ["19:31:05", "connected"],
+    ["23:44:46", "disconnected"]
+  ],
+  "Teddy": [
+    ["19:31:22", "connected"],
+    ["23:44:46", "disconnected"]
+  ],
+  "Bobi": [
+    ["19:31:48", "connected"],
+    ["23:44:37", "disconnected"]
+  ],
+  "Funy": [
+    ["19:31:56", "connected"],
+    ["23:18:38", "disconnected"]
+  ],
+  "Scream": [
+    ["19:31:58", "connected"],
+    ["23:44:42", "disconnected"]
+  ],
+  "Exibor[BIA]": [
+    ["19:32:25", "connected"],
+    ["20:07:20", "disconnected"],
+    ["20:08:38", "connected"],
+    ["23:48:49", "disconnected"]
+  ],
+  "Darius": [
+    ["19:32:33", "connected"],
+    ["23:44:58", "disconnected"]
+  ],
+  "pzyclone[BIA]": [
+    ["19:32:42", "connected"],
+    ["19:33:57", "disconnected"],
+    ["19:35:28", "connected"],
+    ["23:44:50", "disconnected"]
+  ],
+  "Kenway": [
+    ["19:32:54", "connected"],
+    ["23:44:35", "disconnected"]
+  ],
+  "Scotty": [
+    ["19:34:04", "connected"],
+    ["23:26:54", "disconnected"],
+    ["23:33:00", "connected"],
+    ["23:44:47", "disconnected"]
+  ],
+  "Mo": [
+    ["19:34:37", "connected"],
+    ["23:44:37", "disconnected"]
+  ],
+  "BLoODiCa": [
+    ["19:35:04", "connected"],
+    ["23:44:48", "disconnected"]
+  ],
+  "HansWerfer[BIA]": [
+    ["19:36:13", "connected"],
+    ["23:44:40", "disconnected"]
+  ],
+  "Heinrich[BIA]": [
+    ["19:36:28", "connected"],
+    ["23:44:47", "disconnected"]
+  ],
+  "Zex": [
+    ["19:36:42", "connected"],
+    ["23:44:34", "disconnected"]
+  ],
+  "Sebo": [
+    ["19:38:24", "connected"],
+    ["23:34:41", "disconnected"]
+  ],
+  "San": [
+    ["19:39:21", "connected"],
+    ["23:47:00", "disconnected"]
+  ],
+  "Sto": [
+    ["19:39:40", "connected"],
+    ["21:27:02", "disconnected"],
+    ["21:28:10", "connected"],
+    ["23:44:47", "disconnected"]
+  ],
+  "Chewie": [
+    ["19:40:02", "connected"],
+    ["19:58:15", "disconnected"],
+    ["20:02:24", "connected"],
+    ["23:44:48", "disconnected"]
+  ],
+  "!Dayron": [
+    ["19:41:02", "connected"],
+    ["23:51:03", "disconnected"]
+  ],
+  "Malekif": [
+    ["19:42:26", "connected"],
+    ["23:44:43", "disconnected"]
+  ],
+  "Estefan": [
+    ["19:42:40", "connected"],
+    ["19:45:44", "disconnected"],
+    ["19:49:49", "connected"],
+    ["23:55:10", "disconnected"]
+  ],
+  "START": [
+    ["19:42:52", "connected"],
+    ["23:44:47", "disconnected"]
+  ],
+  "Vlay": [
+    ["19:44:13", "connected"],
+    ["23:44:37", "disconnected"]
+  ],
+  "SirJuss": [
+    ["19:51:44", "connected"],
+    ["23:07:46", "disconnected"]
+  ],
+  "Canny": [
+    ["20:19:41", "connected"],
+    ["23:46:21", "disconnected"]
+  ],
+  "Beacon": [
+    ["20:27:43", "connected"],
+    ["23:44:44", "disconnected"]
+  ],
+  "Oliver": [
+    ["20:35:44", "connected"],
+    ["23:44:46", "disconnected"]
+  ]
+}
